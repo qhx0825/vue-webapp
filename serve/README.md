@@ -1,7 +1,7 @@
 # 项目创建
 
 ```
-# 全局安装脚手加
+# 全局安装脚手架
 cnpm install express-generator -g
 # 使用ejs模板引擎来创建node项目
 express --view=ejs node-fullapi
