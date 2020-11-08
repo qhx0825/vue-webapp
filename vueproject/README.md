@@ -1,21 +1,21 @@
 # vueproject
-
-## Project setup
-```
+---
+1. 安装项目依赖包
+```bash
 npm install
 ```
 
-### Compiles and hot-reloads for development
-```
+2. 在开发环境下启动并编译项目
+```bash
 npm run serve
 ```
 
-### Compiles and minifies for production
+3. 编译并构建打包
 ```
 npm run build
 ```
 
-### Lints and fixes files
+4. 行代码检查
 ```
 npm run lint
 ```
